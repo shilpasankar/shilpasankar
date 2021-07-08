@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shilpasankar
+- 👀 I’m interested in learning and experimenting with code for Machine Learning
+- 🌱 I’m always interested in learning to write better, more efficient code
